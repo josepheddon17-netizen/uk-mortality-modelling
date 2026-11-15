@@ -49,4 +49,4 @@ The project intends to use publicly available UK mortality statistics, primarily
 
 This is a `md` file containing the research done before undertaking the project as well as some ideas for each stage of the project:
 
-[Preliminary Research(https://github.com/josepheddon17-netizen/uk-mortality-modelling/blob/main/Preliminary%20Research.md)
+[Preliminary Research](https://github.com/josepheddon17-netizen/uk-mortality-modelling/blob/main/Preliminary%20Research.md)
