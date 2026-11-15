@@ -45,3 +45,8 @@ Currently in the initial setup stage. Data acquisition and exploratory mortality
 
 The project intends to use publicly available UK mortality statistics, primarily from the Office for National Statistics (ONS).
 
+## Preliminary Research
+
+This is a `md` file containing the research done before undertaking the project as well as some ideas for each stage of the project:
+
+[Preliminary Research(https://github.com/josepheddon17-netizen/uk-mortality-modelling/blob/main/Preliminary%20Research.md)
